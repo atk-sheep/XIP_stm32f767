@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;qspi_app/flash_app.ioc&apos; to &apos;qspi_app.ioc&apos;" description="Rename resource &apos;flash_app.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="flash_app.ioc" name="qspi_app.ioc" stamp="1727077625968" updateReferences="true"/>
+</session>

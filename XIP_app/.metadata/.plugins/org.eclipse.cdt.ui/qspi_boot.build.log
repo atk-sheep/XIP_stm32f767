@@ -1,0 +1,10 @@
+16:34:50 **** Incremental Build of configuration Debug for project qspi_boot ****
+make -j16 all 
+arm-none-eabi-size  qspi_boot.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28612	    116	 128340	 157068	  2658c	qspi_boot.elf
+Finished building: default.size.stdout
+ 
+
+16:34:52 Build Finished. 0 errors, 0 warnings. (took 2s.30ms)
+
