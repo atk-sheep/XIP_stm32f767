@@ -1,10 +1,8 @@
 # XIP_stm32f767
 
-## EcternalLoader
+## ExternalLoader
 
-使用cubeprgrammer向外部flash烧写程序，烧写算法参考：
-
-https://github.com/atk-sheep/ExternalLoader_stm32f767
+使用cubeprgrammer向外部flash烧写程序，烧写算法见子仓
 
 # Bootloader、APP
 

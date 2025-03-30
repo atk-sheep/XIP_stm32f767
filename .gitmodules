@@ -1,0 +1,3 @@
+[submodule "ExternalLoader_stm32f767"]
+	path = ExternalLoader_stm32f767
+	url = https://github.com/atk-sheep/ExternalLoader_stm32f767.git
